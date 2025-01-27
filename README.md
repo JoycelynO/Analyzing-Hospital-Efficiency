@@ -9,8 +9,7 @@ This project provides insights that will help a health consulting team(Health St
 Insights and Recommendations are provided on the following key areas:
 1. Which hospitals have the highest average cost and LOS relative to the state averages?
 2. Which hospitals stand out as outliers overall?
-3. Does larger surical program size impact LOS and Cost?
-4. What factors influence LOS and Cost the most?
+3. What factors influence LOS and Cost the most?
 
 Interactive Power BI Report: 
 
@@ -35,3 +34,5 @@ Key Terminology:
 5. Created a dynamic hospital profile title using the Values function in DAX.
 6. DAX Measures used include: Calculate, Average, ALL, Summarize Columns, Values and Divide
 
+## Insights and Recommendations
+1. The New York City Service Area had the highest percentage of hospitals performing the surgical procedure of interest. 
