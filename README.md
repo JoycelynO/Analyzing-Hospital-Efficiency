@@ -4,7 +4,7 @@ This project analyses New York State-Wide Hospital discharge data for a year(202
 ## Project Background
 Due to the fragmented nature of the US Healthcare System, high costs and quality of healthcare providers is one area that has opportunities for improvement. According to the 
 Kaiser Family Foundation, relative to the size of its economy, the US spends a disproportionate amount on healthcare. In 2009 it was estimated that $765 billion was wasted annually. Unnecessary services was 210 billion. Excess administrative care is estimated to be 190 billion, and the prices that are too high are about 105 billion.
-This project focuses on measuring hospital efficiency, one of the six dimensions in healthcare quality. Hospital Managements seek to reduce Length of Stays and costs while not compromising the quality of patient care. The goal is to provide insights that will help a health consulting team(Health Stat) identify areas for targeted quality improvements to enhance both operational efficiency and patient experience in hospitals in the New York State. 
+This project provides insights that will help a health consulting team(Health Stat) identify areas for improvements in hospital efficiency, one of the six dimensions in healthcare quality. Hospital Managements seek to reduce Length of Stays and costs while not compromising the quality of patient care.
 
 Insights and Recommendations are provided on the following key areas:
 1. Which hospitals have the highest average cost and LOS relative to the state averages?
