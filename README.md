@@ -35,4 +35,5 @@ Key Terminology:
 6. DAX Measures used include: Calculate, Average, ALL, Summarize Columns, Values and Divide
 
 ## Insights and Recommendations
-1. The New York City Service Area had the highest percentage of hospitals performing the surgical procedure of interest. 
+1. The New York City Service Area had the highest percentage of hospitals performing the surgical procedure of interest. The NYU Lutheran Medical Center, Olean General Hospital and Memorial Hospital for Cancer and Allied Diseases had the highest average cost per discharge (304.59%, 288.64% and 207.20% respectively) relative to the overall state average ($20,910).
+2. The Kings County Hospital Center
