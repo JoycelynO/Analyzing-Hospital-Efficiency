@@ -1,5 +1,5 @@
 # Analyzing-Hospital-Efficiency
-This project analyses New York State-Wide Hospital discharge data for a year(2022) to measure hospital efficiency using Length of Stay(LOS) and Discharge Costs as KPIs. Elective Hip Replacement surgery was the main reason for the hospital stay. 
+This project analyses New York State-Wide Hospital discharge data for a year(2022) to measure hospital efficiency using Length of Stay(LOS) and Discharge Costs as KPIs. Elective Hip Replacement surgery was the main reason for their hospital stay. 
 
 ## Project Background
 Due to the fragmented nature of the US Healthcare System, high costs and quality of healthcare providers is one area that has opportunities for improvement. According to the 
@@ -36,4 +36,19 @@ Key Terminology:
 
 ## Insights and Recommendations
 1. The New York City Service Area had the highest percentage of hospitals performing the surgical procedure of interest. The NYU Lutheran Medical Center, Olean General Hospital and Memorial Hospital for Cancer and Allied Diseases had the highest average cost per discharge (304.59%, 288.64% and 207.20% respectively) relative to the overall state average ($20,910).
-2. The Kings County Hospital Center
+   
+2. The Kings County Hospital Center, Interfaith Medical Center and Memorial Hospital for Cancer and Allied Diseases had the highest LOS days(352.59%, 252.01%, 243.14% respectively relative to the overall state average(2.65days)
+These hospitals stood out as outliers overall.
+
+3. A root cause analysis revealed some key drivers stood out over others to influence both cost and average LOS:
+- Patients who had an extreme illness severity and extreme major mortality risk stood out as having the most significant impact on reduced efficiency.
+- Hospitals in New York City tended to have a higher cost and LOS overall. This could be due to the higher cost of living and operational expenses in the city.
+- LOS was heavily influenced by patient disposition to a skilled nursing home.
+
+Recommendations: 
+- The consulting company should advise hospitals to:
+  1. develop and implement risk stratification models to identify high-risk patients early in their care journey.
+  3. build stronger partnerships with skilled nursing facilities to improve care coordination and reduce delays.
+  4. conduct a detailed review of supply chain and operational processes for hospitals in the New York City service area to identify cost-saving opportunities.
+  5. compare costs with hospitals performing below the state average to identify best practices.
+- Targeted interventions should be made for outlier hospitals first, as they offer the greatest potential for improvement.
