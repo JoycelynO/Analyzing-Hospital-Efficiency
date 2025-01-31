@@ -11,7 +11,7 @@ Insights and Recommendations are provided on the following key areas:
 2. Which hospitals stand out as outliers overall?
 3. What factors influence LOS and Cost the most?
 
-Interactive Power BI Report: 
+Interactive Power BI Report: [](https://app.powerbi.com/view?r=eyJrIjoiNzUxYWYxZDctMTBjOC00YTc2LTllZDgtYmQxZDU3M2MzMzE5IiwidCI6Ijk0MWJiZjVmLWYyYzAtNDg3NS1hMjRjLTY5MDc4NjVkMjUxYSIsImMiOjh9)
 
 ## Data Structure
 The focus of this analysis is patients who received hip replacement surgeries in the New York State, a common and resource-intensive procedure. Patients with hip pain, normally athritis require a hip replacment procedure. Hospital stays typically last from 0 to 2days or more. Data is sourced from the New York State SPARCS website. 
